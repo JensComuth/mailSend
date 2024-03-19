@@ -1,10 +1,10 @@
 <?php
         $subject = "Hello World";
         $message = "Dit is het eerste mail bericht via PHP";
-        $email = "jens.comuth@student.graafschapcollege.nl"; // sender mail address use your own!
+        $email = "net24jcomuth@net24jcomuth.gc-webhosting.nl"; // sender mail address use your own!
 
         // Recipient email address
-        $to = 'jens.comuth@.student.graafschapcollege.nl';
+        $to = 'net24jcomuth@net24jcomuth.gc-webhosting.nl';
         
         // Create email headers
         $headers = 'From: '. $email . "\r\n" .
